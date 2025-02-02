@@ -2,7 +2,9 @@
  # 🚀 Project Setup and Execution
 
  ## <h3 align="left"> 🌐 Clone the repository:</h3>
+ 
 git clone git@github.com:zayedhamadi/learing_docker.git
+<br> 
 cd learing_docker
  ## <h3 align="left"> 🌐 Build the Docker image:
 </h3>
